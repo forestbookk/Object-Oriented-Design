@@ -1,0 +1,954 @@
+0
+1 159285578
+0
+Commodity whose id is 247506 belongs to ReinforcedBottle
+1 187873258
+157556216
+157556216
+fail to use pivbSS
+194116224
+247506 538
+493647568
+159285578
+151593761
+209093 522
+213264301
+fail to use PCweSVKFL
+470084 640
+1 fFUw+c3g3H
+7 2511145955
+3 560952856
+2 267328917
+1 Vxc!M
+fail to eat Eah/nL50
+4 1040030523
+0 LqGVDGR%t
+697769555
+247506 538
+697769555
+0 Eah/nL50
+fail to use fFUw+c3g3H
+3 Vxc!M
+fail to use PCweSVKFL
+470084 640
+fail to use pivbSS
+5 1399996973
+2 LqGVDGR%t
+0 Fbm$Wa6rlO19
+4 1425365404
+871344201
+387216 598
+Vxc!M 4
+871344201
+871344201
+0 0
+871344201
+LqGVDGR%t 3
+fail to eat %X$P0S+55
+0
+4 1425365404
+2 fFUw+c3g3H
+0
+4 1297972980
+Commodity whose id is 246191 belongs to RecoverBottle
+5 743951777
+1 fFUw+c3g3H
+3 L532PWT
+0 Vxc!M
+0
+8 5708791307
+2 L532PWT
+6 960288800
+Commodity whose id is 209093 belongs to RegularBottle
+3826887551
+163094298
+1 141155974
+0 0
+0 VmTNv+9104
+2 334054826
+120260058
+fail to eat aDruxpa159
+140628951
+1 fFUw+c3g3H
+1 140628951
+0 fFUw+c3g3H
+0 L532PWT
+Commodity whose id is 386490 belongs to CritEquipment
+0
+213376945
+fail to use pivbSS
+1 pivbSS
+1 169764703
+0
+7 1168371657
+fail to use PCweSVKFL
+0
+Commodity whose id is 106121 belongs to Adventurer
+5816274253
+L532PWT 3
+0 PCweSVKFL
+2127885742
+2 pivbSS
+9 1461282957
+1 PCweSVKFL
+9 1461282957
+153956547
+2 564046561
+209093 522
+6 3165226447
+2 564046561
+246191 967
+120260058
+208082857
+7 1411159105
+fail to use fFUw+c3g3H
+0 pivbSS
+fail to use pivbSS
+193112668
+Commodity whose id is 781921 belongs to Adventurer
+6 4467673945
+fail to eat 6249fa232
+9 1477876716
+6 4467673945
+fail to eat %X$P0S+55
+fail to use fFUw+c3g3H
+6 4810663409
+362877371
+fail to use fFUw+c3g3H
+368469 652
+371173 4
+785485 966
+8 5323403994
+L532PWT 1
+Vxc!M 2
+200804766
+3359909800
+368469 652
+4 PCweSVKFL
+468446 629
+208423501
+468446 629
+fail to eat +EHO&XU298
+192585597
+0 WIG^Sk^^X311
+Commodity whose id is 607472 belongs to ReinforcedBottle
+169764703
+7 20615698144
+13610133849
+192585597
+fail to use fFUw+c3g3H
+5 17624086987
+1867925263
+3 pivbSS
+fail to use PCweSVKFL
+fail to use pivbSS
+0 LqGVDGR%t
+3 PCweSVKFL
+3 LqGVDGR%t
+fail to eat 8cv^G294
+524624 3
+fail to eat 8cv^G294
+1516832974
+10 30179980607
+2 6249fa232
+4 1973508018
+15 17771707104
+9 32551344583
+0 fFUw+c3g3H
+625074 551
+0 GKYv0eP^91291
+fail to eat a4f!MMmb2261
+10 35494065761
+17970919203
+1 169764703
+9 23815831848
+LqGVDGR%t 6
+9 1517586116
+fail to eat 78gqP6v372
+fail to use PCweSVKFL
+246191 967
+2 a4f!MMmb2261
+39822487970
+897420 1119
+209176643
+1 LqGVDGR%t
+fail to use pivbSS
+fail to use pivbSS
+42899451724
+12 55187266460
+4300764753
+fail to use pivbSS
+fail to use fFUw+c3g3H
+6 42899451724
+7 4318424843
+2 1724934307
+fail to use pivbSS
+2 1894699010
+fail to use fFUw+c3g3H
+0 fFUw+c3g3H
+11 14694968764
+Vxc!M 3
+40259693419
+2 Vxc!M
+Commodity whose id is 160825 belongs to CritEquipment
+fail to eat %X$P0S+55
+LqGVDGR%t 4
+6 LqGVDGR%t
+Commodity whose id is 716679 belongs to ReinforcedBottle
+2 8cv^G294
+33299536862
+0 fFUw+c3g3H
+Vxc!M 3
+L532PWT 5
+9 56594340940
+5 Vxc!M
+0 LqGVDGR%t
+fail to eat cg%Zx175
+fail to use fFUw+c3g3H
+L532PWT 3
+9 51586790702
+fail to use PCweSVKFL
+fail to use fFUw+c3g3H
+1 %X$P0S+55
+fail to use pivbSS
+Commodity whose id is 214994 belongs to RecoverBottle
+12 63704460638
+Commodity whose id is 27261 belongs to ReinforcedBottle
+fail to eat vwIzyb=6$e442
+51448773109
+1 ztXpYG605198
+18243451877
+0 Vxc!M
+L532PWT 1
+fail to use pivbSS
+12 75512665775
+844123 3
+Commodity whose id is 823195 belongs to Adventurer
+75463642621
+5 9911040277
+fail to use fFUw+c3g3H
+12 125371918399
+12 21883161791
+2 fFUw+c3g3H
+60970717473
+5 2807892818
+3 2139703142
+12 146872564968
+65894 4
+129497 8
+7 7434201486
+11 1824222165
+557882 568
+Vxc!M 3
+311571 2
+7390004932
+LqGVDGR%t 1
+Commodity whose id is 475669 belongs to Food
+629338 593
+98330591203
+fail to eat /zkgfwov404
+3 L532PWT
+fail to eat AwHtUkg+O2532
+1952905881
+LqGVDGR%t 2
+fail to use PCweSVKFL
+1 /zkgfwov404
+0 AwHtUkg+O2532
+832142 632
+6 3458039502
+4 11765541828
+LqGVDGR%t 5
+1 fFUw+c3g3H
+L532PWT 2
+13 26238820907
+Commodity whose id is 823195 belongs to Adventurer
+fail to use pivbSS
+2698439239
+7 8914068337
+fail to use PCweSVKFL
+fail to use pivbSS
+3577685474
+209176643
+3577685474
+2698439239
+61930 6
+LqGVDGR%t 5
+Vxc!M 4
+Commodity whose id is 716738 belongs to CritEquipment
+3577685474
+125116599330
+L532PWT 5
+fail to use PCweSVKFL
+4 pivbSS
+98455611835
+2 LqGVDGR%t
+296899 5
+3 pivbSS
+fail to use PCweSVKFL
+2 pivbSS
+L532PWT 1
+Vxc!M 4
+2 cg%Zx175
+203637255135
+1 fFUw+c3g3H
+Commodity whose id is 230984 belongs to Food
+fail to use fFUw+c3g3H
+Vxc!M 4
+fail to eat MATZ&564
+128877332194
+2444077420
+0 PCweSVKFL
+14 35388391062
+1 aDruxpa159
+Commodity whose id is 615878 belongs to CritEquipment
+203813147801
+119673181022
+375002077745
+Commodity whose id is 693788 belongs to EpicEquipment
+1952905881
+2791450161
+203595 1239
+2 L532PWT
+fail to use pivbSS
+5 2791450161
+L532PWT 3
+486851 776
+fail to use pivbSS
+2093940936
+21 79083045740
+209176643
+fail to use fFUw+c3g3H
+2 LqGVDGR%t
+fail to eat u*cuUw672
+526792 633
+LqGVDGR%t 1
+8 9428771604
+Commodity whose id is 106399 belongs to RecoverBottle
+fail to eat T6cex692
+fail to eat T6cex692
+2093940936
+L532PWT 4
+Commodity whose id is 80246 belongs to Adventurer
+7 Vxc!M
+Commodity whose id is 242578 belongs to Food
+fail to use fFUw+c3g3H
+785485 966
+L532PWT 2
+Vxc!M 2
+L532PWT 2
+20575188592
+34712153767
+7 3979071408
+1 pivbSS
+fail to use fFUw+c3g3H
+653956 797
+Vxc!M 5
+463553 798
+5 L532PWT
+209795765745
+0 fFUw+c3g3H
+2 6XhQSz9ipR387
+1 LqGVDGR%t
+L532PWT 4
+Enter Fight Mode
+Fight log error
+fail to use PCweSVKFL
+LqGVDGR%t 4
+35378318030
+Enter Fight Mode
+631 965 
+Fight log error
+176457 550
+532 613 
+80246 611
+625074 611
+2 LqGVDGR%t
+63507835227
+Vxc!M 5
+8 L532PWT
+1 PCweSVKFL
+11 351880193923
+fail to use PCweSVKFL
+2 L532PWT
+Commodity whose id is 781921 belongs to Adventurer
+629338 798
+1 8*nckgY583
+11 646403736405
+203595 1239
+4 LqGVDGR%t
+2000/04 5Dq/Shu4 attacked CiVCDl with Vxc!M
+2000/04 5Dq/Shu4 AOE-attacked with Vxc!M
+1 L532PWT
+No Matched Log
+Vxc!M 1
+2 PCweSVKFL
+486851 776
+No Matched Log
+L532PWT 3
+12 213832722197
+2000/05 CiVCDl attacked cDtbePkz2 with Vxc!M
+4083515054
+LqGVDGR%t 2
+0 L532PWT
+4083515054
+No Matched Log
+LqGVDGR%t 6
+No Matched Log
+fail to use PCweSVKFL
+No Matched Log
+L532PWT 2
+fail to eat vwIzyb=6$e442
+5 3142351224
+15 2379468357
+2000/03 CiVCDl AOE-attacked with Vxc!M
+2000/05 CiVCDl attacked cDtbePkz2 with Vxc!M
+12 711186937504
+L532PWT 6
+2379468357
+5 PCweSVKFL
+L532PWT 4
+2000/03 CiVCDl AOE-attacked with Vxc!M
+No Matched Log
+Commodity whose id is 860917 belongs to RegularEquipment
+fail to eat cFvhMmSw707
+LqGVDGR%t 6
+2000/03 CiVCDl AOE-attacked with Vxc!M
+Vxc!M 5
+No Matched Log
+Enter Fight Mode
+799166 1275
+799166 1275
+Fight log error
+Fight log error
+Fight log error
+Fight log error
+No Matched Log
+15 1511406092189
+13 216212543322
+Vxc!M 6
+526792 611
+13 206373337384
+2000/05 CiVCDl attacked cDtbePkz2 with Vxc!M
+2000/05 t5mP+u used fFUw+c3g3H
+2000/03 CiVCDl AOE-attacked with Vxc!M
+No Matched Log
+2049982379
+No Matched Log
+No Matched Log
+133460297348
+1 u*cuUw672
+14 435861826117
+No Matched Log
+8 4183170986
+435861826117
+fail to eat 6zft7lX781
+LqGVDGR%t 3
+L532PWT 3
+468586 775
+No Matched Log
+3053437769
+133380024129
+9 34074603498
+fail to use PCweSVKFL
+421606 533
+Enter Fight Mode
+303702 574
+984350 1275
+Fight log error
+61545 631
+2000/11 t5mP+u attacked WFImoSc with LqGVDGR%t
+fail to use pivbSS
+6 9702755076
+fail to use PCweSVKFL
+2000/08 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+LqGVDGR%t 7
+14 696654892861
+fail to use fFUw+c3g3H
+7 pivbSS
+2000/03 CiVCDl AOE-attacked with Vxc!M
+No Matched Log
+3053437769
+LqGVDGR%t 7
+fail to use pivbSS
+20611714058
+2000/08 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+No Matched Log
+14 21543768320
+Vxc!M 5
+14 732277499133
+2000/05 CiVCDl attacked cDtbePkz2 with Vxc!M
+2000/05 t5mP+u used fFUw+c3g3H
+7 L532PWT
+2000/04 5Dq/Shu4 attacked CiVCDl with Vxc!M
+2000/04 5Dq/Shu4 AOE-attacked with Vxc!M
+7 L532PWT
+Enter Fight Mode
+771 607 
+Fight log error
+917836 767
+954187020072
+1908947324
+897420 1239
+2000/11 t5mP+u attacked WFImoSc with LqGVDGR%t
+2000/11 2N^fTfvZQ AOE-attacked with L532PWT
+0 pivbSS
+Vxc!M 5
+14 21675108496
+fail to use pivbSS
+75948440822
+Commodity whose id is 27261 belongs to ReinforcedBottle
+21675108496
+1 cPp?A3kEw930
+fail to use fFUw+c3g3H
+2000/04 5Dq/Shu4 attacked CiVCDl with Vxc!M
+2000/04 5Dq/Shu4 AOE-attacked with Vxc!M
+2000/11 t5mP+u attacked WFImoSc with LqGVDGR%t
+2000/11 2N^fTfvZQ AOE-attacked with L532PWT
+1 T6cex692
+fail to use pivbSS
+15 757400381714
+5 fFUw+c3g3H
+1908947324
+757400381714
+No Matched Log
+8 4687023097
+fail to use PCweSVKFL
+No Matched Log
+10 37493362481
+fail to use fFUw+c3g3H
+2000/04 5Dq/Shu4 attacked CiVCDl with Vxc!M
+2000/04 5Dq/Shu4 AOE-attacked with Vxc!M
+Commodity whose id is 242578 belongs to Food
+5 10509703240
+fail to use fFUw+c3g3H
+14 22400828788
+fail to use PCweSVKFL
+No Matched Log
+969267579804
+15 763437182995
+20 969267579804
+2000/03 CiVCDl AOE-attacked with Vxc!M
+2000/04 5Dq/Shu4 AOE-attacked with Vxc!M
+2000/05 CiVCDl attacked cDtbePkz2 with Vxc!M
+2000/11 2N^fTfvZQ AOE-attacked with L532PWT
+7 LqGVDGR%t
+15 788659750547
+8 5053757151
+12 1908947324
+fail to use fFUw+c3g3H
+LqGVDGR%t 4
+12 1908947324
+Commodity whose id is 870782 belongs to Adventurer
+17 1829645211382
+2000/04 5Dq/Shu4 attacked CiVCDl with Vxc!M
+2000/04 5Dq/Shu4 AOE-attacked with Vxc!M
+0 LqGVDGR%t
+2000/03 CiVCDl AOE-attacked with Vxc!M
+388770 959
+Enter Fight Mode
+Fight log error
+853137 699
+Fight log error
+Fight log error
+No Matched Log
+Commodity whose id is 89471 belongs to EpicEquipment
+No Matched Log
+2 LqGVDGR%t
+No Matched Log
+1 pivbSS
+2000/11 t5mP+u attacked WFImoSc with LqGVDGR%t
+11002329016
+LqGVDGR%t 8
+fail to eat W0S4w7O783
+1908947324
+16 332616712281
+No Matched Log
+82272515037
+LqGVDGR%t 9
+No Matched Log
+153058 1105
+No Matched Log
+L532PWT 5
+No Matched Log
+1005752210826
+1908947324
+861756 6
+12 3727430651
+0 fFUw+c3g3H
+fail to eat 7Q7I3/1013
+No Matched Log
+4 cFvhMmSw707
+4 Vxc!M
+6 LqGVDGR%t
+10 1548143566
+fail to eat YasVv742
+3 Wnspn1050
+17 1969146426706
+283427 3
+0 ^0aE2Z*740
+fail to eat fXmCK!v581
+21513992410
+No Matched Log
+3535839884
+2000/11 2N^fTfvZQ AOE-attacked with L532PWT
+2000/12 2N^fTfvZQ attacked 3h=*pg3 with L532PWT
+fail to use PCweSVKFL
+3535839884
+Enter Fight Mode
+61545 606
+Fight log error
+303702 515
+462 
+629348 638
+629348 638
+303702 414
+Fight log error
+61545 60
+19 76645248513
+2001/08 2N^fTfvZQ attacked WFImoSc with L532PWT
+2000/11 2N^fTfvZQ AOE-attacked with L532PWT
+2000/12 2N^fTfvZQ attacked 3h=*pg3 with L532PWT
+6 L532PWT
+11 22425587067
+2001/03 2N^fTfvZQ attacked WFImoSc with Vxc!M
+585498107624
+5 fFUw+c3g3H
+228835 70
+2 9Tg1%%^716
+3 T958dx919
+fail to use fFUw+c3g3H
+Enter Fight Mode
+Fight log error
+500315 1335
+Fight log error
+0 Vxc!M
+Commodity whose id is 597319 belongs to Food
+Enter Fight Mode
+28 
+421606 533
+478 
+2 L532PWT
+1 o?Q+n^S1051
+No Matched Log
+170813356044
+No Matched Log
+Commodity whose id is 918445 belongs to EpicEquipment
+2001/10 s037=1dq4 AOE-attacked with L532PWT
+L532PWT 2
+2 PCweSVKFL
+153058 1105
+L532PWT 5
+2001/07 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+No Matched Log
+fail to eat 6Pt3RduE6A1114
+fail to use pivbSS
+991237520850
+602694003974
+Commodity whose id is 870782 belongs to Adventurer
+16 2217589383625
+348516708254
+L532PWT 6
+fail to eat =BnkY*1111
+11760951485
+1 Vxc!M
+No Matched Log
+276503 637
+2000/03 CiVCDl AOE-attacked with Vxc!M
+fail to use PCweSVKFL
+Commodity whose id is 866541 belongs to Food
+1 8dG*fV63g935
+1078288325114
+6 Vxc!M
+388770 1105
+0 vwIzyb=6$e442
+Commodity whose id is 683309 belongs to RegularBottle
+Vxc!M 2
+276503 637
+No Matched Log
+Enter Fight Mode
+Fight log error
+303702 637
+2001/08 2N^fTfvZQ attacked WFImoSc with L532PWT
+15 2135725208541
+5 fFUw+c3g3H
+11 21313185822
+No Matched Log
+2 PZ%+g1157
+No Matched Log
+2000/08 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+4 PCweSVKFL
+2 fXmCK!v581
+1838526780
+18 337644328976
+Vxc!M 4
+fail to eat +SG$!4f1196
+342640350445
+3 fFUw+c3g3H
+No Matched Log
+L532PWT 6
+22596778082
+fail to use pivbSS
+fail to eat 29E+B&A/1201
+344545655937
+3 fFUw+c3g3H
+2000/11 2N^fTfvZQ AOE-attacked with L532PWT
+2000/12 2N^fTfvZQ attacked 3h=*pg3 with L532PWT
+No Matched Log
+2000/04 5Dq/Shu4 attacked CiVCDl with Vxc!M
+2000/04 5Dq/Shu4 AOE-attacked with Vxc!M
+L532PWT 5
+0 6Pt3RduE6A1114
+2001/05 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+2001/05 WFImoSc AOE-attacked with LqGVDGR%t
+2001/05 WFImoSc used pivbSS
+fail to use fFUw+c3g3H
+2 PCweSVKFL
+fail to eat TxT&Pf&Nmg998
+fail to use PCweSVKFL
+0 xKK8gX838
+Enter Fight Mode
+303702 619
+2 PCweSVKFL
+fail to use fFUw+c3g3H
+16 332050825159
+2000/08 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+2001/05 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+2001/05 WFImoSc AOE-attacked with LqGVDGR%t
+2001/07 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+2001/12 5Dq/Shu4 attacked 2N^fTfvZQ with L532PWT
+2001/12 5Dq/Shu4 attacked 2N^fTfvZQ with Vxc!M
+209176643
+7 fFUw+c3g3H
+0 Vxc!M
+25 161800591907
+16 593069707487
+fail to eat YasVv742
+977253837999
+1 Q*5G4UO973
+fail to use PCweSVKFL
+40870520796
+3719573289
+fail to eat L+ScmxM51185
+653956 797
+2000/08 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+2001/05 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+2001/05 WFImoSc AOE-attacked with LqGVDGR%t
+2001/07 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+2001/10 WFImoSc AOE-attacked with LqGVDGR%t
+10 1630092504
+No Matched Log
+20 77897007663
+2001/10 s037=1dq4 AOE-attacked with L532PWT
+2001/10 s037=1dq4 used PCweSVKFL
+2001/10 WFImoSc AOE-attacked with LqGVDGR%t
+Vxc!M 6
+2000/04 5Dq/Shu4 attacked CiVCDl with Vxc!M
+2000/04 5Dq/Shu4 AOE-attacked with Vxc!M
+2000/11 t5mP+u attacked WFImoSc with LqGVDGR%t
+2001/03 2N^fTfvZQ attacked WFImoSc with Vxc!M
+2001/08 2N^fTfvZQ attacked WFImoSc with L532PWT
+2001/10 s037=1dq4 AOE-attacked with L532PWT
+2000/04 5Dq/Shu4 attacked CiVCDl with Vxc!M
+2000/04 5Dq/Shu4 AOE-attacked with Vxc!M
+2000/09 5Dq/Shu4 attacked t5mP+u with L532PWT
+2001/12 5Dq/Shu4 attacked 2N^fTfvZQ with L532PWT
+2001/12 5Dq/Shu4 attacked 2N^fTfvZQ with Vxc!M
+No Matched Log
+2001/03 2N^fTfvZQ attacked WFImoSc with Vxc!M
+6 PCweSVKFL
+fail to eat TxT&Pf&Nmg998
+2000/04 5Dq/Shu4 attacked CiVCDl with Vxc!M
+2000/04 5Dq/Shu4 AOE-attacked with Vxc!M
+2000/09 5Dq/Shu4 attacked t5mP+u with L532PWT
+2001/12 5Dq/Shu4 attacked 2N^fTfvZQ with L532PWT
+2001/12 5Dq/Shu4 attacked 2N^fTfvZQ with Vxc!M
+2000/09 5Dq/Shu4 attacked t5mP+u with L532PWT
+3 Zhss7ueLf926
+fail to eat wCE5oF=dW11189
+980283908256
+No Matched Log
+No Matched Log
+Vxc!M 7
+2 =u=3kywlx759
+2000/03 CiVCDl AOE-attacked with Vxc!M
+10 1630092504
+fail to use fFUw+c3g3H
+No Matched Log
+21 80319841295
+fail to use PCweSVKFL
+No Matched Log
+fail to use PCweSVKFL
+2000/11 t5mP+u attacked WFImoSc with LqGVDGR%t
+1630092504
+Commodity whose id is 106121 belongs to Adventurer
+2000/11 t5mP+u attacked WFImoSc with LqGVDGR%t
+2001/03 2N^fTfvZQ attacked WFImoSc with Vxc!M
+2001/08 2N^fTfvZQ attacked WFImoSc with L532PWT
+2001/10 s037=1dq4 AOE-attacked with L532PWT
+L532PWT 4
+No Matched Log
+2001/10 WFImoSc AOE-attacked with LqGVDGR%t
+fail to eat 29E+B&A/1201
+Enter Fight Mode
+303702 616
+Fight log error
+1236 613 
+115 72 
+880139 130
+Fight log error
+2001/08 2N^fTfvZQ attacked WFImoSc with L532PWT
+163659779592
+21870464524
+21 1217344560560
+15 341747608237
+fail to use pivbSS
+6 Vxc!M
+22 1260798407041
+169481040282
+No Matched Log
+6 4955316635
+fail to use fFUw+c3g3H
+23791838228
+2001/10 s037=1dq4 AOE-attacked with L532PWT
+fail to use PCweSVKFL
+L532PWT 6
+Commodity whose id is 153023 belongs to EpicEquipment
+9 45077877846
+11 1820960106
+1324160886131
+2000/05 CiVCDl attacked cDtbePkz2 with Vxc!M
+2000/05 t5mP+u used fFUw+c3g3H
+4 fFUw+c3g3H
+209176643
+4 PCweSVKFL
+fail to eat TxT&Pf&Nmg998
+2 29E+B&A/1201
+21 87594395159
+667776 635
+2000/12 2N^fTfvZQ attacked 3h=*pg3 with L532PWT
+20 1061364807195
+932121 154
+1949865252434
+2001/03 2N^fTfvZQ attacked WFImoSc with Vxc!M
+16 3964770814026
+L532PWT 3
+1065820205667
+468586 154
+44596736529
+8 L532PWT
+Commodity whose id is 213872 belongs to EpicEquipment
+Vxc!M 2
+158396 113
+209176643
+Commodity whose id is 106121 belongs to Adventurer
+2000/04 5Dq/Shu4 attacked CiVCDl with Vxc!M
+2000/04 5Dq/Shu4 AOE-attacked with Vxc!M
+2000/09 5Dq/Shu4 attacked t5mP+u with L532PWT
+2001/12 5Dq/Shu4 attacked 2N^fTfvZQ with L532PWT
+2001/12 5Dq/Shu4 attacked 2N^fTfvZQ with Vxc!M
+8 L532PWT
+209176643
+2000/09 5Dq/Shu4 attacked t5mP+u with L532PWT
+4347571592
+No Matched Log
+fail to use PCweSVKFL
+Enter Fight Mode
+490419 166
+Fight log error
+Fight log error
+Fight log error
+Fight log error
+Fight log error
+490419 166
+Fight log error
+Fight log error
+Fight log error
+2000/09 5Dq/Shu4 attacked t5mP+u with L532PWT
+158396 113
+No Matched Log
+L532PWT 1
+371927094330
+677035770476
+184472908875
+fail to eat 3?Vll515
+2000/11 t5mP+u attacked WFImoSc with LqGVDGR%t
+2001/03 2N^fTfvZQ attacked WFImoSc with Vxc!M
+2001/08 2N^fTfvZQ attacked WFImoSc with L532PWT
+2001/10 s037=1dq4 AOE-attacked with L532PWT
+5020596760
+7 Vxc!M
+LqGVDGR%t 3
+2002/01 3h=*pg3 attacked 2N^fTfvZQ with L532PWT
+2002/02 3h=*pg3 AOE-attacked with L532PWT
+25 1993903064193
+Commodity whose id is 914416 belongs to EpicEquipment
+7 Vxc!M
+Commodity whose id is 909301 belongs to RecoverBottle
+3 L532PWT
+No Matched Log
+4425819987
+2000/09 5Dq/Shu4 attacked t5mP+u with L532PWT
+2 6M?xegObd1397
+1 miM%YwHt%Y696
+2000/03 CiVCDl AOE-attacked with Vxc!M
+2000/04 5Dq/Shu4 AOE-attacked with Vxc!M
+2000/05 CiVCDl attacked cDtbePkz2 with Vxc!M
+2000/11 2N^fTfvZQ AOE-attacked with L532PWT
+17 4623682622404
+5098845155
+1 PCweSVKFL
+2000/03 CiVCDl AOE-attacked with Vxc!M
+fail to use fFUw+c3g3H
+LqGVDGR%t 7
+2000/08 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+2001/05 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+2001/05 WFImoSc AOE-attacked with LqGVDGR%t
+2001/07 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+2001/12 5Dq/Shu4 attacked 2N^fTfvZQ with L532PWT
+2001/12 5Dq/Shu4 attacked 2N^fTfvZQ with Vxc!M
+2002/01 3h=*pg3 attacked 2N^fTfvZQ with L532PWT
+2002/02 3h=*pg3 AOE-attacked with L532PWT
+9 L532PWT
+2000/08 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+2001/05 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+2001/05 WFImoSc AOE-attacked with LqGVDGR%t
+2001/07 WFImoSc attacked 2N^fTfvZQ with LqGVDGR%t
+2001/10 WFImoSc AOE-attacked with LqGVDGR%t
+231347 552
+209176643
+5474540537
+fail to eat H=+Kck+1326
+2001/08 2N^fTfvZQ attacked WFImoSc with L532PWT
+6 L532PWT
+25 194302293700
+Enter Fight Mode
+870782 534
+76 58 
+23 97071136619
+4617800726
+723084 343
+6 12285218882
+fail to use fFUw+c3g3H
+fail to use PCweSVKFL
+1939026024
+16 4617800726
+LqGVDGR%t 2
+2001/10 s037=1dq4 AOE-attacked with L532PWT
+6 Vxc!M
+1 fFUw+c3g3H
+1 fFUw+c3g3H
+11 1939026024
+25 194604352870
+12285218882
+No Matched Log
+97222166204
+251108 1044
+Enter Fight Mode
+Fight log error
+fail to eat L+ScmxM51185
+1178891836683
+4617800726
+83174 5
+909301 100
+4 fFUw+c3g3H
+Commodity whose id is 987358 belongs to RecoverBottle
