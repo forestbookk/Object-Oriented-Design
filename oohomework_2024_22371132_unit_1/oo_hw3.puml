@@ -1,0 +1,177 @@
+@@startuml oo_hw3
+
+title HW3 Framework
+
+Class Main {}
+
+
+Class Const {
+    - Const()
+    - instance : Const
+    - funDef: HashMap<String, ArrayList<String>>
+    - one: BigInteger
+    - mOne: BigInteger
+    - zero: BigInteger
+    + getInstance(): Const
+    + addFunDef(String): void
+    + getFunDef(): HashMap<String, ArrayList<String>>
+    + Zb(): BigInteger
+    + Ob(): BigInteger
+    + mOb(): BigInteger
+}
+
+Class Lexer {
+    + Lexer(String)
+    - cur: int
+    - tokens: ArrayList<Token>
+    + addToken(String) : void
+    + callUdf(String, String, int): int
+    + move(): void
+    + getToken(): Token
+    + NotEnd(): boolean
+}
+
+Class Token {
+    + Token(Type, String)
+    - type: Type
+    - content: String
+    + getContent(): String
+    + getType(): Type
+}
+
+Class Parser {
+    + Parser(Lexer)
+    - lexer: Lexer
+    + parseExpr() : Expr
+    + parseTerm() : Term
+    + parseFactor() : Factor
+    + skipPow(): void
+    + parseParenFac(String): Factor
+    + parseDerFac(String): Factor
+    + parseExfFac(String): Factor
+}
+
+Interface Factor {
+    + getClassName(): String
+    + toPoly(): Poly
+}
+
+Class Expr {
+    + Expr(ArrayList<Term>, ArrayList<Token>)
+    - terms: ArrayList<Term>
+    - ops: ArrayList<Token>
+    - wholeOp: Type 
+    - isDer: boolean
+    + setWholeOp(Type): void
+    + getClassName(): String
+    + getWholeOp(): Type
+    + toPoly(): Poly
+    + getTerms(): ArrayList<Term>
+    + setDer(boolean): void
+    + getOps(): ArrayList<Token>
+}
+
+Class Term {
+    + Term(ArrayList<Factor>)
+    - factors: ArrayList<Factor>
+    + toPoly(): Poly
+    + getFactors(): ArrayList<Factor>
+}
+
+Class DerFac {
+    + DerFac(Expr, Type)
+    - expr: Expr
+    - wholeOp: Type
+    + toPoly(): Poly
+    + derPoly(Poly): Poly
+    + getClassName(): String
+    + derMono(Mono): Poly
+}
+
+Class Exf {
+    + Exf(BigInteger, Factor, BigInteger)
+    - index: BigInteger
+    - coe: BigInteger
+    - content: Factor
+    + toPoly(): Poly
+    + getClassName(): String
+}
+
+Class NumFac {
+    + NumFac(BigInteger)
+    - num: BigInteger
+    + setNum(BigInteger): void
+    + getNum(): BigInteger
+    + toPoly(): Poly
+    + getClassName(): String
+}
+
+Class PowFac {
+    + PowFac(BigInteger, BigInteger, String, Expr, boolean)
+    - wholeOp: Type
+    - coe: BigInteger
+    - isExpr: boolean
+    - expr: Expr
+    - ind: BigInteger
+    - base: String
+    + getExpr(): Expr
+    + getInd(): BigInteger
+    + toPoly(): Poly
+    + setInd(BigInteger): void
+    + getClassName(): String
+    + setWholeOp(Type): void
+}
+
+Class Mono {
+    + Mono(BigInteger, HashMap<Poly, BigInteger>)
+    - isNumFac: boolean
+    - xindex: BigInteger
+    - exps: HashMap<Poly, BigInteger>
+    + getXindex(): BigInteger
+    + setXindex(BigInteger): void
+    + isConst(): boolean
+    + toString(): String
+    + getExps(): HashMap<Poly, BigInteger>
+    + multiply(Mono): Mono
+    + isFactor(String): boolean
+    + expandExps(): Poly
+    + deepClone(): Mono
+    + equals(Object): boolean
+    + hashCode(): int
+}
+
+Class Poly {
+    + Poly(HashMap<Mono, BigInteger>)
+    + Poly(Mono, BigInteger)
+    - monos: HashMap<Mono, BigInteger
+    + getMonos(): HashMap<Mono, BigInteger>
+    + monosDeepClone(HashMap<Mono, BigInteger>): HashMap<Mono, BigInteger>
+    + deepClone(): Poly
+    + addPoly(Poly): Poly
+    + subPoly(Poly): Poly
+    + mulPoly(Poly): Poly
+    + toString(): String
+    + equals(Object): boolean
+    + hashCode(): int 
+}
+
+Main --> Const: 建立自定义函数集合
+Const -> Lexer: 函数替换
+Lexer --> Token: 词法单元
+Main --> Lexer: 创建实例\n解析原始字符串
+Main -> Parser: 创建实例
+Lexer -> Parser: 传入Tokens流，构造语法树
+
+Expr --> Term
+Term -> Factor
+Factor -> Expr
+Factor --> Exf
+Factor --> PowFac
+Factor --> DerFac
+Factor --> NumFac
+
+
+Expr --> Poly: 进入计算
+Poly -> Mono: 计算单元
+
+@@enduml

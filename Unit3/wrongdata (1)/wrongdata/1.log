@@ -1,0 +1,6 @@
+Exception in thread "main" java.lang.RuntimeException: addTag: Contains3
+	at MyPerson.addTag(MyPerson.java:144)
+	at MyNetwork.addTag(MyNetwork.java:314)
+	at com.oocourse.spec2.main.Runner.addTag(Runner.java:241)
+	at com.oocourse.spec2.main.Runner.run(Runner.java:64)
+	at MainClass.main(MainClass.java:7)
